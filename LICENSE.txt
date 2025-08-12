@@ -1,0 +1,11 @@
+ElloCello Proprietary Use License v0.1  
+Copyright © 2025 Deric J. McHenry | ElloCello LLC
+
+This repository and all contents within are proprietary and protected under U.S. copyright law and trade secret provisions.
+
+Permission is granted to view, reference, and discuss the public-facing documents (e.g., README.md) for non-commercial purposes, provided attribution is preserved.
+
+No part of the backend logic, scoring systems, proprietary equations, or signal architectures may be copied, reproduced, or used to build derivative works without express written consent.
+
+All rights reserved.  
+Licensing inquiries: burnmydays@proton.me
