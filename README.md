@@ -45,22 +45,29 @@ This is a mirror of signal under pressure.
 
 ---
 
-## III. DEVELOPMENT & TIMESTAMPS
-
-* **Vault Entry Date**: August 11, 2025
-* **GitHub Repo Created**: August 12, 2025
-* **Metrics Snapshot**: 7/17/25 – 8/12/25
-* **Current Load**: 500+ entries, 12+ subsystems, 45+ threads, 600K+ tokens
-* **Rig Count**: 3–5 active zones (Core, Satellites, Public Edge)
-* **Assignment**: All systems filed under ElloCello LLC (New York State)
-
-System status tracked via:
-
-* GitHub commit logs + README state changes
-* Google Drive archive (Sorted + Unsorted Layer)
-* Exported PDFs with internal timestamping
-* Session logs + AI metadata (K2 Audit Trail)
-
+III. DEVELOPMENT & TIMESTAMPS
+Vault Entry Date: August 11, 2025
+GitHub Repo Created: August 12, 2025
+Metrics Snapshot: July 17 – August 12, 2025
+Total Load:
+12.14M tokens audited
+12,818 messages total
+5,497 user messages
+7,321 assistant messages
+500+ signal entries
+12+ subsystems
+45+ threads
+Rig Count: 3–5 active zones
+(Core, Satellites, Public Edge, Drift Buffer, Leaderboard Core)
+Assignment: All systems filed under ElloCello LLC (New York State)
+System Status Tracked Via:
+GitHub commit logs + README state changes
+Google Drive archive (Sorted + Unsorted Layers)
+Exported PDFs with embedded timestamps
+Session logs + AI metadata (K2 Audit Trail)
+System SignaRate:
+S/Nr = 0.60 (User-generated signal dominance)
+Avg Tokens per Message = 946.94
 ---
 
 ## IV. ENGAGEMENT & LICENSING OUTLOOK
