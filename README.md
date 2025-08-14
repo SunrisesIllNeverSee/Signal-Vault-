@@ -137,6 +137,11 @@ This README is the anchor — proof of build, intent, and execution.
 All edits will preserve timeline. All changes are tracked. This is your signal receipt.
 
 ---
+### 📘 Official Signal Artifacts
+
+- [OriginPoint v1.0 (PDF)](./originpoint_v1.0.pdf)  
+  Authored by DJM — part of the Temporal-to-Signal Compression System™, SigRank™, and SignaRate™.
+---
 
 ## VI. TRADEMARK & LEGAL NOTICE
 
