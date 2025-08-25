@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-08-25T14:30:00Z",
+  "session_id": "session-001",
+  "user_id_hash": "a8c3f9d1",
+  "model": "gpt-5",
+  "tokens_in": 1250,
+  "tokens_out": 3200,
+  "messages": 42,
+  "snr": 0.62,
+  "prompt_complexity": 3.4,
+  "session_depth": 7,
+  "cross_thread_refs": 2,
+  "sig_drift_points": 1,
+  "ghost_tokens": 145,
+  "notes": "High clarity, minor drift at midpoint."
+}
