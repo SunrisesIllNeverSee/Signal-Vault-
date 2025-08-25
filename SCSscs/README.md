@@ -16,3 +16,11 @@ SCS measures **clarity under pressure**: how much meaning is compressed into tok
 
 📂 Specs, schema, and paper draft live in this folder.  
 🔒 Proprietary weights/equations remain sealed under ElloCello LLC.
+
+- [📄 Spec Overview](./docs/SCS_Spec_v0.1.md)
+- [📜 Draft Paper](./docs/paper_signalcompression_v0.1.md)
+- [📁 Public Schema](./data/scs.metrics.schema.json)
+- [📊 Sample Metrics](./data/sample_session_metrics.json)
+- [🔐 Security Policy](./SECURITY.md)
+- [💼 Investor Overview](./INVESTORS.md)
+- [⚖️ Licenses](./licenses)
