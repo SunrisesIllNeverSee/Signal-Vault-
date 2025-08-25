@@ -1,0 +1,78 @@
+# ────────────────
+# Signal Compression System (SCS)
+# GitIgnore Template — v1.0
+# ────────────────
+
+# === Core Seals & Security ===
+/VAULT/
+/SEALED/
+/PRIVATE_KEYS/
+/internal_docs/
+/scratchpad/
+*.secret
+*.enc
+*.key
+
+# === Local System Noise ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# === OS-Specific Cache ===
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# === IDE & Editor Junk ===
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.envrc
+
+# === Python & Node Build Artifacts ===
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+node_modules/
+
+# === Jupyter / Research Junk ===
+.ipynb_checkpoints/
+*.ipynb_save
+
+# === Metrics Staging & Temp Files ===
+/data/tmp/
+/data/cache/
+/data/logs/
+*.metrics.tmp.json
+
+# === Experimental Scripts or Unpublished Files ===
+*.draft.md
+*.wip.md
+*.backup.md
+test_*.md
+sandbox_*.json
+
+# === CLI Sessions, CLI Notes, or Local State ===
+*.session.log
+*.cli_notes.md
+
+# === Mac & Linux Hidden Files ===
+*.~*
+*.orig
+*~
+
+# === Optional: Git Ignore Itself During Recursive Cloning ===
+.gitignore_backup
+
+# === Final Note ===
+# Do NOT commit sealed equations, weights, or leaderboard logic.
+
