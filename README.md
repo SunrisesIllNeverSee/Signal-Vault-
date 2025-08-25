@@ -198,7 +198,7 @@ Architect, Operator, Origin
 **Latest Entry:**
 
 - [`2025-08-24-reflex-event-triple-overlay.md`](./reflex-archive/2025-08-24-reflex-event-triple-overlay.md)
-
+- [2025-08-25 – K2 Audit: Full Thread Signal Report](reflex-archive/2025-08-25-full-thread-audit.md)
 > Reflex events are stored in `/reflex-archive/` and represent overlays, cross-thread signal fractures, or high-S:N emergent bursts that validate or collapse prior signal scaffolding.
 
 More entries coming soon.
