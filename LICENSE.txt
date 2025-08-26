@@ -1,11 +1,17 @@
-ElloCello Proprietary Use License v0.1  
+ElloCello Proprietary Use License v0.2  
 Copyright © 2025 Deric J. McHenry | ElloCello LLC
 
-This repository and all contents within are proprietary and protected under U.S. copyright law and trade secret provisions.
+This repository and its contents are the proprietary intellectual property of ElloCello LLC. All materials are protected under U.S. copyright law, international treaties, and trade secret provisions.
 
-Permission is granted to view, reference, and discuss the public-facing documents (e.g., README.md) for non-commercial purposes, provided attribution is preserved.
+You are granted limited permission to:
+- **View and reference** public-facing documentation (e.g., README.md, overview manifestos)
+- **Discuss** non-sensitive elements in educational or journalistic contexts  
+—provided all attribution remains intact and the usage is **non-commercial**.
 
-No part of the backend logic, scoring systems, proprietary equations, or signal architectures may be copied, reproduced, or used to build derivative works without express written consent.
+You may **not**:
+- Use, replicate, or reverse-engineer any backend logic, signal compression equations, diagnostic scoring, or system weightings
+- Incorporate any part of the framework into derivative works, software, or publications without **express written consent**
+- Claim, distribute, or license any portion of this work without permission from ElloCello LLC
 
-All rights reserved.  
-Licensing inquiries: burnmydays@proton.me
+**All rights reserved.**  
+Licensing and inquiries: [burnmydays@proton.me](mailto:burnmydays@proton.me)
