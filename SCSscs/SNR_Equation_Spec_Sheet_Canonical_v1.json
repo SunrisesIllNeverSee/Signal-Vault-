@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "window_words": 2000,
+  "tokenizer_regex": "\\b[\\w']+\\b",
+  "precedence_rules": [
+    {
+      "order": 1,
+      "rule": "number_check",
+      "predicate": "token.isdigit()",
+      "class": "NOISE"
+    },
+    {
+      "order": 2,
+      "rule": "length_check",
+      "predicate": "len(token) <= 2",
+      "class": "NOISE"
+    },
+    {
+      "order": 3,
+      "rule": "stopword_check",
+      "predicate": "token.lower() in EN_STOPWORDS",
+      "class": "NOISE"
+    },
+    {
+      "order": 4,
+      "rule": "filler_single",
+      "predicate": "token.lower() in FILLER_WORDS",
+      "class": "NOISE"
+    },
+    {
+      "order": 5,
+      "rule": "filler_multi_span",
+      "predicate": "span in FILLER_PHRASES",
+      "class": "NOISE"
+    },
+    {
+      "order": 6,
+      "rule": "default",
+      "predicate": "else",
+      "class": "SIGNAL"
+    }
+  ],
+  "equations": {
+    "SNR_ratio": "Signal_Words / max(Noise_Words, 1)",
+    "SNR_dB": "10 * log10(SNR_ratio)",
+    "Signal_percent": "Signal_Words / (Signal_Words + Noise_Words)"
+  },
+  "outputs": [
+    "summary.json",
+    "windows.csv",
+    "per_word.jsonl"
+  ],
+  "provenance": {
+    "sha256": "73fa2353acfee323126fe57c155ad23b0dd483087777c558999e76da9d44e5bc",
+    "generated_utc": "2025-08-26 16:52:15 UTC",
+    "owner": "Ello Cello LLC"
+  }
+}
