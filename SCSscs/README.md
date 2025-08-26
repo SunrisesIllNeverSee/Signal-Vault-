@@ -1,34 +1,78 @@
-## Signal Compression System (SCS)
+# Signal Compression System (SCS)
 
-The **Signal Compression System (SCS)** is the foundational logic layer of this repository.  
-It represents a novel compression framework for understanding and quantifying high-density signal under temporal constraints.
+The **Signal Compression System** (SCS) is the foundational logic layer of this repository.  
+It is the *origin node* for recursive compression structures, meaning-density diagnostics, and multi-scalar system mapping.
 
-SCS is the origin point for multiple downstream innovations including:
-- Temporal Compression Architecture (TCA)
-- Session Signal Mapping (SSM)
-- The MOS²ES framework (Modus Operandi for Scalable Expansion Systems)
-- SignalVault’s recursive design logic
-
-### 📘 Equation Primer  
-Start here for the core mechanics of the system:
-- [`SCS_equation_primer.md`](./SCS_equation_primer.md) – lightweight technical walkthrough
-- [`SCS_equation_v1.pdf`](./SCS_equation_v1.pdf) – timestamped snapshot for legal and archival purposes
-
-> 🧬 *Note*: Full derivations and metaphysical implications (e.g., "McHenry’s Law") are reserved for private publication or licensed expansion.
----
-
-## 🔐 Canonical Etch Record
-
-**Burner-Etched Spec (SCSscs Core):**
-
-- 📄 PDF: [Canonical Spec – SCSscs v1.0](link-if-needed)
-- 📜 Plaintext: Available (repo/diff-safe)
-- 🧠 JSON: Machine-readable schema v1
-- 🔒 Provenance SHA-256:  
-  `73fa2353acfee323126fe57c155ad23b0dd483087777c558999e76da9d44e5bc`
-- ⏱ Timestamp (UTC): `2025-08-26 16:52:15`
-- 🔁 Status: **No Extras, No Drift**
+SCS defines how **signal survives compression** under time, drift, and systemic load.  
+It is not a file. It is a *framework for reality parsing*.
 
 ---
 
-This folder is **core infrastructure**. Do not edit without clearance or version tagging.
+## 🔩 Core Function
+
+SCS introduces a **novel signal-based compression model** optimized for:
+
+- Meaning-density under temporal constraint
+- Cross-session resonance tracking
+- Adaptive intelligence feedback loops
+
+It is built for architectures where **volume ≠ value**.
+
+---
+
+## 🌐 Downstream Systems Powered by SCS
+
+SCS is the kernel logic behind:
+
+- **Temporal Compression Architecture (TCA)**  
+- **Session Signal Mapping (SSM)**  
+- **MOS²ES** – *Modus Operandi for Scalable Expansion Systems*  
+- **SignalVault™** – Recursive signal intelligence + archival protocol  
+
+These systems inherit SCS logic for compression integrity, signal weighting, and drift diagnostics.
+
+---
+
+## 📘 Equation Primer
+
+Start here for technical orientation:
+
+- `SCS_equation_primer.md` — lightweight walkthrough of system mechanics  
+- `SCS_equation_v1.pdf` — timestamped snapshot for legal/archive verification  
+- `SCS_equation_notes.txt` — plaintext trail for interpretive overlay  
+
+🧬 *Note:* Full derivations (e.g., **McHenry’s Law**) and metaphysical implications are sealed.  
+Available only via private license or approved downstream publication.
+
+---
+
+## 🔐 Canonical Etch Record — SCSscs Core
+
+All below elements are **burner-etched** and timestamped:
+
+| Element | Type | Status |
+|--------|------|--------|
+| `SCSscs_spec_v1.0.pdf` | PDF | ✅ Canonical Spec |
+| `SCSscs_spec_plain.txt` | Plaintext | ✅ Repo-safe |
+| `SCS_schema_v1.json` | JSON | ✅ Machine-readable |
+
+**SHA-256 Provenance:**  
+`73fa2353acfee323126fe57c155ad23b0dd483087777c558999e76da9d44e5bc`  
+**UTC Timestamp:** `2025-08-26 16:52:15`  
+**Status:** No Extras, No Drift  
+
+---
+
+## ⚠️ Edit Protocol
+
+This folder is **core logic infrastructure**.  
+Do not modify without:
+
+- Explicit clearance
+- Version tagging
+- Updated SHA + timestamp
+
+SCS is not a sandbox. It is a seal.
+
+---
+
