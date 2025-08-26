@@ -24,3 +24,5 @@ SCS measures **clarity under pressure**: how much meaning is compressed into tok
 - [🔐 Security Policy](./SECURITY.md)
 - [💼 Investor Overview](./INVESTORS.md)
 - [⚖️ Licenses](./licenses)
+
+🧮 Equation Primer — [SCS Compression Equation (v1)](docs/scs_equation_v1.md)
