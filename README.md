@@ -1,9 +1,4 @@
 # 🛰️ SIGNAL VAULT  
-© 2025 Deric J. McHenry | ElloCello LLC  
-🔐 ElloCello Proprietary Use License v0.1  
-📧 burnmydays@proton.me  
-🌐 burnmydays.com  
-
 ---
 
 ## I. SIGNAL VAULT OVERVIEW
@@ -173,7 +168,9 @@ More entries incoming. Timeline is live.
 
 ## 🔒 ALL SYSTEMS TRACE TO:
 
-**Deric J. McHenry**  
+# 🛰️ SIGNAL VAULT  
+© 2025 Deric J. McHenry | ElloCello LLC  
+🔐 ElloCello Proprietary Use License v0.1  
 Architect, Operator, Origin  
 ElloCello LLC  
 📧 burnmydays@proton.me  
