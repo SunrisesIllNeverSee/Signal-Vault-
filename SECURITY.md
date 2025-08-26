@@ -1,30 +1,42 @@
-# Security Policy — Signal Vault Repository
 
-This repository contains public-safe documentation of a proprietary signal compression architecture.
+This repository contains **public-safe artifacts** from a proprietary compression architecture.  
+While some components are open for observation, the core logic remains sealed.
 
-### 🔐 Security Principles
-- **Proprietary logic must never be committed** to this repository.  
-  - Includes signal equations, compression scoring formulas, logic trees, and drift-weighting mechanisms.
-- All commits must be tagged with **[SAFE]** or labeled according to protocol.
-- Internal files (notes, derivations, or sealed materials) must be stored in:
-  - `[SEALED]` — sealed logic, not for commit  
-  - `[VAULT]` — protected, SHA-logged files, excluded via `.gitignore`
+## 🔐 Security Protocol
 
-### 🧬 Git Hygiene Protocol
-- Do not stage or push any `.pdf`, `.md`, or `.txt` containing proprietary logic unless explicitly cleared.
-- Always verify `git status` and `.gitignore` before committing.
+- **No proprietary logic or equations** may be committed or versioned publicly.
+  - This includes: signal scoring equations, weighting algorithms, compression trees, or derivational schema.
+- All sensitive logic must be stored in:
+  - `[SEALED]` – Internal-only derivations, excluded from repo via `.gitignore`
+  - `[VAULT]` – SHA-tagged sealed documents, access-controlled
 
-### 🛠 Vulnerability Reporting
-If you detect a potential issue, leak, or signal drift:
-- **Do not open a public GitHub issue**
-- Report directly to **burnmydays@proton.me**  
-  Response typically within 48 hours.
+## 🧬 Commit Hygiene
+
+All commits must adhere to the following:
+
+- Tag explicitly as `[SAFE]`  
+- Do not stage `.pdf`, `.md`, or `.txt` containing core IP
+- Double-check `.gitignore` before all pushes
+- When in doubt, escalate to clearance authority (ElloCello LLC)
+
+## 🛡️ Reporting Vulnerabilities
+
+Please report **privately** and with discretion.  
+Do **not** open a public issue or discussion thread for suspected leaks or concerns.
+
+- 📧 **burnmydays@proton.me**
+- Response time: 24–48 hours
 
 ---
 
-This repository is protected by internal SHA logging, audit trails, and legal watermarking.  
-All unauthorized usage or replication will be pursued under applicable law.
+## ⚠️ Legal Notice
 
+All unauthorized use, duplication, or derivative modeling of sealed systems will be pursued under applicable U.S. and international IP law.  
+All contributions, commits, and forks are subject to audit and SHA-trace review.
+
+ElloCello LLC reserves all rights to enforce licensing and protect the integrity of the system.
+
+----
 # Security Policy — Signal Vault Repository
 
 © 2025 Deric J. McHenry | ElloCello LLC  
@@ -33,4 +45,5 @@ All unauthorized usage or replication will be pursued under applicable law.
 🔒 SHA Policy Last Reviewed: 2025-08-26  
 📜 License: ElloCello Proprietary Use License v0.1
 
+---
 
