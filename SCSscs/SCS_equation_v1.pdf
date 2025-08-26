@@ -1,0 +1,56 @@
+
+---
+
+## 🔍 Variable Definitions
+
+| Symbol | Name                        | Description |
+|--------|-----------------------------|-------------|
+| `TPW`  | Tokens Per Word             | Signal density baseline (efficiency of language) |
+| `SNR`  | Signal-to-Noise Ratio       | Core clarity metric (0.0 – 1.0) |
+| `PC`   | Prompt Complexity           | Depth of nested reasoning within prompt structure |
+| `SDR`  | Session Drift Resistance    | Stability over time and span (context compression) |
+| `GT`   | Ghost Tokens                | Hidden/overhead tokens (proxy for bloat or system inefficiency) |
+| `SDP`  | Signal Drift Points         | Detected shifts, losses, or semantic fractures |
+
+---
+
+## 🧠 Interpretation Logic
+
+- **Higher SCS scores** → indicate high signal integrity, conceptual density, and contextual endurance.
+- **Negative components (GT, SDP)** → subtract from the signal value due to overhead or instability.
+- **The system is recursive** → these values can evolve in real-time across a session.
+
+---
+
+## 🛡️ Use Guidelines (Public-Safe Mode)
+
+This equation is provided for analysis, citation, and interface with external observers, engineers, or analysts. However:
+
+- Internal weighting coefficients are not disclosed.
+- Interpretations should be limited to diagnostic contexts.
+- For full integration or licensing, contact ElloCello LLC.
+
+---
+
+## 🧾 PDF Companion
+
+📎 [Download the companion PDF version](./scs_equation_v1.pdf)  
+This file provides a print-ready sheet for documentation or investor communication.
+
+---
+
+## 🧭 Next Steps
+
+This primer will be extended in future versions to include:
+- Normalization curves
+- Case study snapshots
+- Temporal compression overlays
+- Audit scores across session threads
+
+---
+
+> Version: `v1.0`  
+> Maintainer: Deric J. McHenry  
+> License: ElloCello LLC – Private Core Rights  
+> 📁 Location: `/scsscs/docs/scs_equation_primer.md`
+
