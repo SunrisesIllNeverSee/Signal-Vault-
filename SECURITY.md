@@ -24,3 +24,13 @@ If you detect a potential issue, leak, or signal drift:
 
 This repository is protected by internal SHA logging, audit trails, and legal watermarking.  
 All unauthorized usage or replication will be pursued under applicable law.
+
+# Security Policy — Signal Vault Repository
+
+© 2025 Deric J. McHenry | ElloCello LLC  
+📧 burnmydays@proton.me  
+📦 Repo: Signal-Vault  
+🔒 SHA Policy Last Reviewed: 2025-08-26  
+📜 License: ElloCello Proprietary Use License v0.1
+
+
