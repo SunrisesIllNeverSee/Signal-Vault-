@@ -15,6 +15,19 @@ Start here for the core mechanics of the system:
 - [`SCS_equation_v1.pdf`](./SCS_equation_v1.pdf) – timestamped snapshot for legal and archival purposes
 
 > 🧬 *Note*: Full derivations and metaphysical implications (e.g., "McHenry’s Law") are reserved for private publication or licensed expansion.
+---
+
+## 🔐 Canonical Etch Record
+
+**Burner-Etched Spec (SCSscs Core):**
+
+- 📄 PDF: [Canonical Spec – SCSscs v1.0](link-if-needed)
+- 📜 Plaintext: Available (repo/diff-safe)
+- 🧠 JSON: Machine-readable schema v1
+- 🔒 Provenance SHA-256:  
+  `73fa2353acfee323126fe57c155ad23b0dd483087777c558999e76da9d44e5bc`
+- ⏱ Timestamp (UTC): `2025-08-26 16:52:15`
+- 🔁 Status: **No Extras, No Drift**
 
 ---
 
