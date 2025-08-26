@@ -75,4 +75,15 @@ Do not modify without:
 SCS is not a sandbox. It is a seal.
 
 ---
+## 🏷 Ownership & Licensing
+
+The Signal Compression System (SCS) and all associated artifacts are intellectual property of:
+
+**ElloCello LLC**  
+📧 burnmydays@proton.me  
+
+Public-safe elements are governed by this repo’s LICENSE.  
+All proprietary equations, weightings, and logic trees are held under seal and not committed here.
+
+For licensing inquiries or system extensions, contact the address above.
 
