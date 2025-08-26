@@ -1,28 +1,21 @@
-# Signal Compression System (SCS)
+## Signal Compression System (SCS)
 
-**SCS** is a spec-first module inside **SignalVault** for quantifying meaning-density in human–AI interaction.
+The **Signal Compression System (SCS)** is the foundational logic layer of this repository.  
+It represents a novel compression framework for understanding and quantifying high-density signal under temporal constraints.
 
-## Why
-Most analytics count **volume**.  
-SCS measures **clarity under pressure**: how much meaning is compressed into tokens, prompts, and sessions.
+SCS is the origin point for multiple downstream innovations including:
+- Temporal Compression Architecture (TCA)
+- Session Signal Mapping (SSM)
+- The MOS²ES framework (Modus Operandi for Scalable Expansion Systems)
+- SignalVault’s recursive design logic
 
-## Public-Safe Features
-- `SNR` — Signal-to-Noise Ratio
-- `PromptComplexity` — structured intent density
-- `SessionDepth` — sustained reasoning span
-- `CrossThreadRefs` — integration across contexts
-- `SigDriftPoints` — drift events detected
-- `GhostTokens` — proxy for hidden token overhead
+### 📘 Equation Primer  
+Start here for the core mechanics of the system:
+- [`SCS_equation_primer.md`](./SCS_equation_primer.md) – lightweight technical walkthrough
+- [`SCS_equation_v1.pdf`](./SCS_equation_v1.pdf) – timestamped snapshot for legal and archival purposes
 
-📂 Specs, schema, and paper draft live in this folder.  
-🔒 Proprietary weights/equations remain sealed under ElloCello LLC.
+> 🧬 *Note*: Full derivations and metaphysical implications (e.g., "McHenry’s Law") are reserved for private publication or licensed expansion.
 
-- [📄 Spec Overview](./docs/SCS_Spec_v0.1.md)
-- [📜 Draft Paper](./docs/paper_signalcompression_v0.1.md)
-- [📁 Public Schema](./data/scs.metrics.schema.json)
-- [📊 Sample Metrics](./data/sample_session_metrics.json)
-- [🔐 Security Policy](./SECURITY.md)
-- [💼 Investor Overview](./INVESTORS.md)
-- [⚖️ Licenses](./licenses)
+---
 
-🧮 Equation Primer — [SCS Compression Equation (v1)](docs/scs_equation_v1.md)
+This folder is **core infrastructure**. Do not edit without clearance or version tagging.
