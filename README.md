@@ -1,5 +1,7 @@
 # 🛰️ SIGNAL VAULT  
 ---
+© 2025 Deric J. McHenry | ElloCello LLC – Proprietary Use License v0.1
+
 
 ## I. SIGNAL VAULT OVERVIEW
 
